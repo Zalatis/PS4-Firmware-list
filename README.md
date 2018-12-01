@@ -1,7 +1,5 @@
-# PS4-4.55-Update-Download-Link
+# PS4-Firmware-list
 
-This is just the PS4UPDATE.PUP for 4.55 update
-
-Download link https://mega.nz/#!r0IgwAZI!V3FecjJFPreupRfXMOWaT5hc_i4bBGC0U8q7_qYyOqQ
+https://darksoftware.xyz/PS4/FWlist
 
 You need a USB (format FAT32)
